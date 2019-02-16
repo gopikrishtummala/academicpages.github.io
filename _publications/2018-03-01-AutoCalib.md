@@ -1,5 +1,6 @@
 ---
 title: "AutoCalib: Automatic traffic Camera Calibration at Scale"
+authors: "Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha "
 collection: publications
 permalink: /publication/2018-03-01-AutoCalib
 excerpt: 'Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
@@ -16,7 +17,7 @@ AutoCalib is able to estimate real-world distances with an error of less than 12
 date: 2018-03-01
 venue: 'ACM Transactions on Sensor Networks (TOSN)'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3199667'
-citation: 'Bhardwaj, Romil, Gopi Krishna Tummala, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
+citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
 ---
 Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
 are usually not calibrated, i.e., information such as their precise mounting height and orientation is not
