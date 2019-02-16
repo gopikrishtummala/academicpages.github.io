@@ -3,6 +3,10 @@ title: "AutoCalib: Automatic traffic Camera Calibration at Scale"
 authors: "Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha "
 collection: publications
 permalink: /publication/2018-03-01-AutoCalib
+date: 2018-03-01
+venue: 'ACM Transactions on Sensor Networks (TOSN)'
+paperurl: 'https://dl.acm.org/citation.cfm?id=3199667'
+citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
 excerpt: 'Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
 are usually not calibrated, i.e., information such as their precise mounting height and orientation is not
 available. Calibrating these cameras allows measurement of real-world distances from the video, thereby,
@@ -14,10 +18,6 @@ aggregation algorithm to automatically produce a robust estimate of the camera c
 just hundreds of samples.We have implemented AutoCalib as a service on Azure that takes in a video segment
 and computes the camera calibration parameters. Using video from real-world traffic cameras, we show that
 AutoCalib is able to estimate real-world distances with an error of less than 12%.'
-date: 2018-03-01
-venue: 'ACM Transactions on Sensor Networks (TOSN)'
-paperurl: 'https://dl.acm.org/citation.cfm?id=3199667'
-citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
 ---
 Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
 are usually not calibrated, i.e., information such as their precise mounting height and orientation is not
