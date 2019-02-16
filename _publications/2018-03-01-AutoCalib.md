@@ -6,7 +6,7 @@ permalink: /publication/2018-03-01-AutoCalib
 date: 2018-03-01
 venue: 'ACM Transactions on Sensor Networks (TOSN)'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3199667'
-citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
+
 excerpt: 'Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
 are usually not calibrated, i.e., information such as their precise mounting height and orientation is not
 available. Calibrating these cameras allows measurement of real-world distances from the video, thereby,
@@ -32,5 +32,4 @@ and computes the camera calibration parameters. Using video from real-world traf
 AutoCalib is able to estimate real-world distances with an error of less than 12%.
 
 [Download paper here](https://dl.acm.org/citation.cfm?id=3199667)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> ACM Transactions on Sensor Networks (TOSN) </i>14, no. 3-4 (2018): 19.'
