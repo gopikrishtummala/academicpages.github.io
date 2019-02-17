@@ -3,7 +3,7 @@ title: "Vision-Track: Vision based indoor tracking in anchor-free regions "
 authors: "Gopi Krishna Tummala, Rupam Kundu, Prasun Sinha, Rajiv Ramnath"
 collection: publications
 permalink: /publication/2016-10-01-VisionTrack
-date: 2019-03-01
+date: 2016-10-01
 venue: 'Proceedings of the 3rd Workshop on Hot Topics in Wireless (Collocated with ACM MobiCom)'
 paperurl: 'http://web.cse.ohio-state.edu/~sinha.43/publications/conf/hotwireless16-visiontrack.pdf'
 excerpt: 'Smart-devices can render high quality location services when
