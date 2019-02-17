@@ -4,7 +4,7 @@ authors: "Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandra
 collection: publications
 permalink: /publication/2017-11-01-AutoCalib
 date: 2017-11-01
-venue: 'ACM Transactions on Sensor Networks (TOSN)'
+venue: 'Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments'
 paperurl: 'https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/AutoCalib.pdf'
 citation: 'Gopi Krishna Tummala, Bhardwaj, Romil, Ganesan Ramalingam, Ramachandran Ramjee, and Prasun Sinha. AutoCalib: Automatic traffic camera calibration at scale. <i> Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments</i>,  p. 14. ACM, 2017.'
 excerpt: 'Emerging smart cities are typically equipped with thousands of outdoor cameras. However, these cameras
