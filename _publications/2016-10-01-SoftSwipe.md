@@ -6,7 +6,6 @@ permalink: /publication/2016-10-01-SoftSwipe
 date: 2016-10-01
 venue: 'First ACM International Workshop on Smart, Autonomous, and Connected Vehicular Systems and Services (colocated with ACM MobiCom)'
 paperurl: 'https://web.cse.ohio-state.edu/oportal/tech_reports/7'
-citation: 'Gopi Krishna Tummala , Derrick Cobb, Prasun Sinha and Rajiv Ramnath. Soft-Swipe: Enabling High-Accuracy Pairing of Vehicles to Lanes using COTS. <i> In Proceedings of the First ACM International Workshop on Smart, Autonomous, and Connected Vehicular Systems and Services</i>, pp. 62-63. ACM, 2016.  
 
 excerpt: 'Proximity-based interactions underlie applications such as
 retail payments using smartphone-apps like Apple Pay and
@@ -35,6 +34,9 @@ proposed system called Soft-Swipe works by matching natural signatures (specific
 the target object with the same signature detected by simple
 instrumentation of the environment (a video camera or an inexpensive sensor array). Soft-Swipe implemented in a vehicle testing station performed pairing with median F-score of
 96% using vision-only system, 92% using sensor-only system and, 99% using both
+
+citation: 'Gopi Krishna Tummala , Derrick Cobb, Prasun Sinha and Rajiv Ramnath. Soft-Swipe: Enabling High-Accuracy Pairing of Vehicles to Lanes using COTS. <i> In Proceedings of the First ACM International Workshop on Smart, Autonomous, and Connected Vehicular Systems and Services</i>, pp. 62-63. ACM, 2016.  
+
 
 
 [Download paper here](https://web.cse.ohio-state.edu/oportal/tech_reports/7)
