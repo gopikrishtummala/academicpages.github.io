@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Engineer at Qualcomm Autonomous Vehicular Research. I have a Ph.D. 
-from Department of Computer Science and Engineering, The Ohio State University where I was co-advised by [Dr. Prasun Sinha](http://web.cse.ohio-state.edu/~sinha.43/) and [Dr. Rajiv Ramnath](http://web.cse.ohio-state.edu/~ramnath.6). I have worked with Honda and Microsoft Research (internship) on various vehicular projects. 
+I am a Senior Engineer at Qualcomm Autonomous Vehicular Research. 
+
+I have a Ph.D. 
+from Department of Computer Science and Engineering, The Ohio State University where I was co-advised by [Dr. Prasun Sinha](http://web.cse.ohio-state.edu/~sinha.43/) and [Dr. Rajiv Ramnath](http://web.cse.ohio-state.edu/~ramnath.6). During my Ph.D I have worked on collaborative vehicular sensing and indoor navigation services for people with visual disabilities (PVDs). I have studied two lines of works pertaining to collaborative vehicular applications. The first line of work exploits Inter Vehicular Communication
+(IVC) to create a local map of neighboring vehicles by analyzing dash board camera information or, IVC channel information to selectively communicate with neighboring vehicles (front vehicle etc.). The second line of work explores Vehicle to Infrastructure (V2I) communication for enabling hands-free payments from the car (parking-fee, toll-fee etc.). In a collaboration project with Microsoft Research, I have designed novel techniques to automatically calibrate the infrastructure cameras for a better understanding of traffic flow characteristics and enhance easiness of V2I pairing. These automatic calibration techniques are scalable and enables hands-free calibration of thousands of traffic cameras. Continuing this project, we developed automatic calibration techniques for dashboard cameras which enable ADAS applications using commodity devices. To understand the importance of the calibration accuracies and their effect on real world applications, I have studied the calibration errors, other sensor imperfections and sensor fusion errors in context of Autonomous vehicles during my internship at Qualcomm Research.
 	
 Before joining Ohio State, I obtained a B.Tech in Electrical Engineering, from the Indian Institute of Technology Madras. 
 For my final thesis at IIT Madras, I have worked with [Prof. K. Giridhar](http://www.ee.iitm.ac.in/~giri/).
