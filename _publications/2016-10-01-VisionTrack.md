@@ -26,6 +26,8 @@ Tummala, Gopi Krishna, Rupam Kundu, Prasun Sinha, and Rajiv Ramnath. Vision-trac
 
 
 [Download paper here](http://web.cse.ohio-state.edu/~sinha.43/publications/conf/hotwireless16-visiontrack.pdf)
+
 [Download slides here](https://drive.google.com/open?id=1zJgsyq-SRx8j9J9O1PHEchy5S7gfRxX_)
+
 Code Coming Soon.
 
